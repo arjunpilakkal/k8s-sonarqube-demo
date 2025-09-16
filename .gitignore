@@ -54,7 +54,7 @@ docker-compose.override.yml  # Local overrides
 # If you have local secrets or temp configs, add them here, e.g.:
 # k8s/secrets.yaml
 
-# ========================
+# =======================
 # Others
-# ========================
+# =======================
 *.env                        # Environment files
